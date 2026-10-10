@@ -1,0 +1,41 @@
+# Java build products
+*.class
+out/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python testing / cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+tmp/
+*.tmp
+*.bak
+*.log
+*.swp
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
